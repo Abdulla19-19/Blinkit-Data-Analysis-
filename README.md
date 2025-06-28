@@ -1,7 +1,5 @@
 # Blinkit-Data-Analysis-project
-![34ab1b68-6405-4bf0-85f0-4b77adc724dc](https://github.com/user-attachments/assets/c06ebfba-0260-401f-b6fb-8cd773d09c55)
-
-
+![34ab1b68-6405-4bf0-85f0-4b77adc724dc](https://github.com/user-attachments/assets/e9a37882-9a1d-49d9-ba87-70445192a831)
 
 
 # Introduction
