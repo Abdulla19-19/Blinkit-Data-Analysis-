@@ -1,4 +1,9 @@
-# Blinkit-Data-Analysis-
+# Blinkit-Data-Analysis-project
+![34ab1b68-6405-4bf0-85f0-4b77adc724dc](https://github.com/user-attachments/assets/c06ebfba-0260-401f-b6fb-8cd773d09c55)
+
+
+
+
 # Introduction
 This report provides a comprehensive analysis of Blinkit’s grocery dataset, focusing on sales performance, customer satisfaction, and inventory distribution. Utilizing Python (pandas, matplotlib, seaborn), SQL, and Power BI, the project identifies key insights and optimization
 Blinkit Grocery Data Analysis Report
